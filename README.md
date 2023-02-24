@@ -1,1 +1,1 @@
-# python-gss
+# pythonとGoogleスプレッドシートを連携するサンプルプログラム
